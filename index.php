@@ -56,7 +56,6 @@ $resultt = $crud->getSpecialties();
     </div>
     <br>
 
-
     <div class="d-grid gap-2">
         <button type="submit" name="submit" class="btn btn-primary btn-block">submit</button>
     </div>
